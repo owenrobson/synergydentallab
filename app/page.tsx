@@ -210,11 +210,11 @@ export default function Home() {
           >
             <CarouselContent>
               {[
-                "/images/partners/synergy.png",
-                "/images/partners/synergy.png",
-                "/images/partners/synergy.png",
-                "/images/partners/synergy.png",
-                "/images/partners/synergy.png",
+                "/synergydentallab/images/partners/synergy.png",
+                "/synergydentallab/images/partners/synergy.png",
+                "/synergydentallab/images/partners/synergy.png",
+                "/synergydentallab/images/partners/synergy.png",
+                "/synergydentallab/images/partners/synergy.png",
               ].map((partner, index) => (
                 <CarouselItem key={index} className="md:basis-1/3 lg:basis-1/4">
                   <div className="p-4">

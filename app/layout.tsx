@@ -28,7 +28,7 @@ export default function RootLayout({
             <div className="flex items-center space-x-2">
               <span className="font-bold text-l">
                 <img
-                  src="/images/partners/synergy-logo.png"
+                  src="/synergydentallab/images/partners/synergy-logo.png"
                   alt=""
                   className="w-25 h-10 inline-block filter invert brightness-10"
                 />
@@ -149,7 +149,7 @@ export default function RootLayout({
               <div>
                 <div className="flex items-center space-x-2 mb-4">
                   <img
-                    src="/images/partners/synergy-logo.png"
+                    src="/synergydentallab/images/partners/synergy-logo.png"
                     alt=""
                     className="w-25 h-10 inline-block filter invert brightness-0"
                   />
