@@ -108,7 +108,7 @@ export default function Home() {
               {
                 title: "CAD / CAM",
                 image:
-                  "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80",
+                  "https://media.3shape.com.imgeng.in/-/media/corporate/blog/images/digital-dentistry/dental-software/software.jpg?v=87da1cc9-8801-4b13-86d8-9f274bd87a35",
                 href: "#cad-cam",
               },
               {
@@ -229,8 +229,8 @@ export default function Home() {
                 </CarouselItem>
               ))}
             </CarouselContent>
-            <CarouselPrevious />
-            <CarouselNext />
+            <CarouselPrevious className="md:block hidden" />
+            <CarouselNext className="md:block hidden" />
           </Carousel>
         </div>
       </section>
