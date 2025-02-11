@@ -228,10 +228,9 @@ export default function Home() {
                   </div>
                 </CarouselItem>
               ))}
-            <div className="hidden sm:block">
-              <CarouselPrevious className="left-0" />
-              <CarouselNext className="right-0" />
-            </div>
+            </CarouselContent>
+            <CarouselPrevious />
+            <CarouselNext />
           </Carousel>
         </div>
       </section>
