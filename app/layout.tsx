@@ -9,7 +9,7 @@ import { cn } from "@/lib/utils";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "DentalTech Solutions - Advanced Dental Technology",
+  title: "Synergy Dnetal Lab - Advanced Dental Technology",
   description:
     "Leading provider of innovative dental technology solutions for modern practices",
 };
